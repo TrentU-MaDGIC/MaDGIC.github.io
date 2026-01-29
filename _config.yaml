@@ -1,7 +1,7 @@
 title: "Library Workshops Hub"
-remote_theme: TrentU-MaDGIC/library-workshop-theme
+remote_theme: TrentU-MaDGIC/jtd-trent-theme
 contact_email: "madgichelp@trentu.ca"
-color_scheme: rc
+color_scheme: trent
 github_repo_url: "https://github.com/TrentU-MaDGIC/MaDGIC.github.io"
 
 # required for building jekyll site locally
