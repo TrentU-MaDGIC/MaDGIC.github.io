@@ -3,7 +3,7 @@ remote_theme: TrentU-MaDGIC/jtd-trent-theme
 contact_email: "madgichelp@trentu.ca"
 color_scheme: trent
 github_repo_url: "https://github.com/TrentU-MaDGIC/MaDGIC.github.io"
-footer_content: "© 2026 Trent University Library"
+footer_content: "© YEAR Trent University Library"
 
 # required for building jekyll site locally
 plugins:
