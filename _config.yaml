@@ -1,5 +1,6 @@
-title: "Introduction to Git and GitHub"
-remote_theme: ubc-library-rc/rc-theme
+title: "Library Workshops Hub"
+remote_theme: TrentU-MaDGIC/library-workshop-theme
+contact_email: "madgichelp@trentu.ca"
 color_scheme: rc
 github_repo_url: "https://github.com/TrentU-MaDGIC/MaDGIC.github.io"
 
