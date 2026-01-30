@@ -1,6 +1,6 @@
 ---
 title: Makerspace: Laser Cutting Basics
-when: March 5, 1-3pm
+when: "March 5, 1-3pm"
 where: Makerspace
 registration_url: https://example.com/register
 ---
