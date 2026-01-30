@@ -63,8 +63,8 @@ section {
 
 #header-img {
   flex: 0 0 auto;
-  width: 80px;
-  height: 80px;
+  width: 240px;
+  height: 160px;
 }
 
 #header-img img {
