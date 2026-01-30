@@ -111,6 +111,13 @@ section {
   color: #555;
   margin: 0;
 }
+.workshop-card .blurb-list {
+  font-size: 0.9em;
+  color: #555;
+  margin: 0.5em 0;
+  padding-left: 1.5rem;
+  list-style: disc;
+}
 
 /* Responsive: stack on smaller screens */
 @media (max-width: 800px) {
