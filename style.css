@@ -4,6 +4,12 @@ body {
 	color: #2d3c48; 
 	font-size: 14px; 
 }
+.container {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+}
 
 h1 { 
 	font-size: 1.6rem; 
