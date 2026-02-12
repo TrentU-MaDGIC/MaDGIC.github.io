@@ -105,13 +105,6 @@ section {
   padding: 0; /* no card styling, just spacing */
 }
 
-.workshop-card h3 +.reource-list{
-  margin-top: 0.5rem;
-  margin-bottom: 0.15rem;
-  font-size: 1.2rem;
-  font-weight: 250;
-}
-
 .workshop-card a {
   font-weight: bold;
   display: block;
