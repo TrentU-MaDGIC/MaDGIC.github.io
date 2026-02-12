@@ -1,5 +1,5 @@
 ---
-title: "REPLACE: Workshop Title"
+title: "Business Analyst for Demographic and Economic Data"
 section: "Asynchronous Learning Materials"
 order: 10                       # lower shows first within a section
 link: "https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/SitePages/Library-Workshops.aspx?csf=1&web=1&e=1DTbC3#business-analyst-for-demographic-and-economic-data"     # main link for the card
