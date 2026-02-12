@@ -5,10 +5,12 @@ color_scheme: trent
 github_repo_url: "https://github.com/TrentU-MaDGIC/MaDGIC.github.io"
 footer_content: true
 
-# required for building jekyll site locally
+# Jekyll plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# rebuild 9
+collections:
+  workshops:
+    output: false
