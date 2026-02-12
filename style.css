@@ -125,6 +125,11 @@ section {
   list-style: disc;
 }
 
+.workshop-card .resourcelist {
+  line-height: 1.5;
+  margin: 0 0 1rem;
+}
+
 /* Responsive: stack on smaller screens */
 @media (max-width: 800px) {
   .workshop-grid {
