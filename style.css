@@ -115,6 +115,7 @@ section {
 
 .workshop-card .blurb {
   font-size: 0.9em;
+  padding-bottom: 0.75rem;
   color: #555;
   margin: 0;
 }
