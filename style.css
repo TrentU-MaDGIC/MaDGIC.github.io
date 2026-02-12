@@ -26,10 +26,9 @@ h2 {
 }
 
 h3 { 
-	margin-top: 0.5rem; 
+	margin: 0.5rem 0 0.25rem; 
 	font-size: 1.2rem; 
-	font-weight: 250; 
-	margin-bottom: 0.15rem
+	font-weight: 250;
 }
 
 ul { 
@@ -107,7 +106,7 @@ section {
   padding: 0; /* no card styling, just spacing */
 }
 
-.workshop-card h3 {
+.workshop-card h3 +.reource-list{
   margin-top: 0.5rem;
   margin-bottom: 0.15rem;
   font-size: 1.2rem;
