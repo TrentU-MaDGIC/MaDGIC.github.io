@@ -1,7 +1,7 @@
 ---
 title: "Mapping in R"
 section: "Asynchronous Learning Materials"
-order: 1                       # lower shows first within a section
+order: 2                       # lower shows first within a section
 link: "https://trentu-madgic.github.io/MappinginR-Basics/"     # main link for the card
 description: "If you want to create a basic map of your study area using open-source tools and replicable methods, then this workshop is for you. Join James Marcaccio, GIS and Data Systems Specialist, for this introduction to creating basic maps using R. You'll learn how to: identify packages and basic functions for mapping in R,
 import and generate geospatial data, and plot your data on a map for use in a research paper or poster."
