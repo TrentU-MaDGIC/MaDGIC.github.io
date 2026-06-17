@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with NVivo"
+title: "Qualitative Data Analysis with NVivo- Basics"
 section: "Data analysis and visualization"
 order: 2
 link: "https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/SitePages/Library-Workshops.aspx?csf=1&web=1&e=1DTbC3#getting-started-with-nvivo"
