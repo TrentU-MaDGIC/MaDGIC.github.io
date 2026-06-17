@@ -1,6 +1,6 @@
 ---
 title: "Sharing your Project Online with R Shiny"
-section: "Workshop Materials"
+section: "Data analysis and visualization"
 order: 1
 link: "https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/SitePages/Library-Workshops.aspx?csf=1&web=1&e=1DTbC3#sharing-your-project-online-with-r-shiny"
 description: "Want to share your R project with a wider audience? Join James Marcaccio, GIS and Data Systems Specialist, to explore how a Shiny app is structured to enable you to build interactive web apps and share your work online. You'll learn how to: create a basic custom app to survey a population and display and share your results online."
