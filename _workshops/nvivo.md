@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with NVivo"
-section: "Workshop Materials"
+section: "Data analysis and visualization"
 order: 2
 link: "https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/SitePages/Library-Workshops.aspx?csf=1&web=1&e=1DTbC3#getting-started-with-nvivo"
 description: "Join Kate Hodge, GIS and Data Support Specialist, for an introductory workshop designed to help you learn the NVivo interface and terminologies for qualitative data analysis. In this session, you will learn how to: import a variety of data types, create codes and cases, run queries to uncover patterns, build visualizations."
