@@ -27,9 +27,9 @@
 
   <div class="container">
     <h1>Featured Workshops</h1>
-    <p>Welcome to our GitHub page where we store asynchronous learning materials and workshop files!</p>
+    <p>Welcome to our GitHub page, where we store asynchronous learning materials and workshop files!</p>
     <p>
-      To see upcoming workshops visit
+      To see upcoming workshops, visit
       <a href="https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/SitePages/Library-Workshops.aspx?csf=1&web=1&e=1DTbC3">
         Library Workshop Schedule
       </a>
@@ -39,7 +39,7 @@
       Order of sections on the page. You can rename or reorder safely.
       Each workshop file in _workshops/ must use one of these exact section names.
     {%- endcomment -%}
-    {%- assign section_order = "Workshop Materials|Asynchronous Learning Materials|Other Learning Materials|Research Data Management (RDM)" | split: "|" -%}
+    {%- assign section_order = "Data analysis and visualization|Geographic information systems (GIS) and mapping|Research Data Management (RDM)|Digital Scholarship" | split: "|" -%}
 
     {%- for sec_name in section_order -%}
       {%- assign cards = site.workshops | where: "section", sec_name | sort: "order" -%}
