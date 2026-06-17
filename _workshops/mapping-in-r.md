@@ -1,6 +1,6 @@
 ---
 title: "Mapping in R: Basics"
-section: "Workshop Materials"
+section: "Geographic information systems (GIS) and mapping"
 order: 3
 link: "https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/SitePages/Library-Workshops.aspx?csf=1&web=1&e=1DTbC3#mapping-in-r-basics"
 description: "If you want to create a basic map of your study area using open-source tools and replicable methods, then this workshop is for you. Join James Marcaccio, GIS and Data Systems Specialist, for this introduction to creating basic maps using R. You'll learn how to: identify packages and basic functions for mapping in R,
