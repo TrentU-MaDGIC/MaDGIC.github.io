@@ -2,10 +2,19 @@
 title: "Qualitative Data Analysis with NVivo- Basics"
 section: "Data analysis and visualization"
 order: 2
-link: "https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/SitePages/Library-Workshops.aspx?csf=1&web=1&e=1DTbC3#getting-started-with-nvivo"
-description: "Join Kate Hodge, GIS and Data Support Specialist, for an introductory workshop designed to help you learn the NVivo interface and terminologies for qualitative data analysis. In this session, you will learn how to: import a variety of data types, create codes and cases, run queries to uncover patterns, build visualizations."
+link: "https://github.com/TrentU-MaDGIC/QualitativeDataAnalysisNVivo-Basics"
+description: "This workshop offers an introduction to Qualitative Data Analysis in NVivo software version 15.3.1 (Windows edition).
+We'll introduce you to the basics of this popular qualitative data analysis software and its interface. By the end of this workshop, you will be able to:
+
+Import Data: Learn how to import a variety of data types
+Create annotations: Link notes to a specific piece of text in a document
+Create memos: Document general project notes
+Create codes: Label data for better organization and retrieval
+Run queries: Filter, sort, and summarize data using simple queries (no coding required)
+Build visualizations: Visualize the results in a word tree"
+
 prereqs: "None"
 resources:
-  - label: "Getting Started with NVivo Handout.docx"
-    url: "https://trentu.sharepoint.com/sites/TrentLibrary-MapsandDataResourceHub/Shared%20Documents/Getting%20Started%20with%20NVivo/Getting%20Started%20with%20NVivo%20Handout.docx?d=wc212fb8e86f44681bf579e4b5837c839&csf=1&web=1&e=Iug1Ky"
+  - label: "Download workshop data"
+    url: "https://github.com/TrentU-MaDGIC/QualitativeDataAnalysisNVivo-Basics/blob/main/files/NVivo_Workshop_Material.zip"
 ---
