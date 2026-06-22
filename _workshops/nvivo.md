@@ -16,5 +16,5 @@ Build visualizations: Visualize the results in a word tree"
 prereqs: "None"
 resources:
   - label: "Download workshop data"
-    url: "https://github.com/TrentU-MaDGIC/QualitativeDataAnalysisNVivo-Basics/blob/main/files/NVivo_Workshop_Material.zip"
+    url: "https://github.com/TrentU-MaDGIC/QualitativeDataAnalysisNVivo-Basics/blob/main/content/files/NVivo_Workshop_Material.zip"
 ---
