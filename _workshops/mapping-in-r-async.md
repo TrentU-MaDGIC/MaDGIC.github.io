@@ -1,6 +1,6 @@
 ---
 title: "Mapping in R"
-section: "Geographic information systems (GIS) and mapping"
+section: "Geographic Information Systems (GIS) and Mapping"
 order: 2                       # lower shows first within a section
 link: "https://trentu-madgic.github.io/MappinginR-Basics/"     # main link for the card
 description: "If you want to create a basic map of your study area using open-source tools and replicable methods, then this workshop is for you. Join James Marcaccio, GIS and Data Systems Specialist, for this introduction to creating basic maps using R. You'll learn how to: identify packages and basic functions for mapping in R,
