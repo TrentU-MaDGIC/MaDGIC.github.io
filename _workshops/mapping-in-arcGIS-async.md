@@ -1,6 +1,6 @@
 ---
 title: "Mapping in ArcGIS"
-section: "Geographic information systems (GIS) and mapping"
+section: "Geographic Information Systems (GIS) and Mapping"
 order: 1                       # lower shows first within a section
 link: "https://trentu-madgic.github.io/Mapping-in-ArcGIS/"     # main link for the card
 description: "If you want to create your first map in ArcGIS using Statistics Canada data, then this workshop is for you. Join Devan Desai, a MaDGIC Student Assistant, for this introduction to creating basic maps using ArcGIS. You'll learn how to: find and import geospatial and census data, as well as generate a map for use in a research paper or poster."
