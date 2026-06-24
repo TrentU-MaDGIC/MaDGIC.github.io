@@ -39,7 +39,7 @@
       Order of sections on the page. You can rename or reorder safely.
       Each workshop file in _workshops/ must use one of these exact section names.
     {%- endcomment -%}
-    {%- assign section_order = "Data analysis and visualization|Geographic information systems (GIS) and mapping|Research Data Management (RDM)|Digital Scholarship" | split: "|" -%}
+    {%- assign section_order = "Data Analysis and Visualization|Geographic Information Systems (GIS) and Mapping|Research Data Management (RDM)|Digital Scholarship" | split: "|" -%}
 
     {%- for sec_name in section_order -%}
       {%- assign cards = site.workshops | where: "section", sec_name | sort: "order" -%}
