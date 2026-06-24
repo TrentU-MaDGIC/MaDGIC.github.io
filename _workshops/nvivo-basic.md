@@ -1,6 +1,6 @@
 ---
 title: "Qualitative Data Analysis with NVivo- Basics"
-section: "Data analysis and visualization"
+section: "Data Analysis and Visualization"
 order: 2
 link: "https://trentu-madgic.github.io/QualitativeDataAnalysisNVivo-Basics/"
 description: "This workshop offers an introduction to Qualitative Data Analysis in NVivo software version 15.3.1 (Windows edition).
